@@ -3,6 +3,7 @@ package ohtu.verkkokauppa;
 
 public class Tuote {
     private int id;
+    private int jokunen;
     private String nimi;
     private int hinta;
 
